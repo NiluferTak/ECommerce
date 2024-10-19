@@ -1,0 +1,8 @@
+{"command": "addItem", "payload": {"itemId": 1, "categoryId": 101, "sellerId": 200, "price": 100.0, "quantity": 2}}
+{"command": "displayCart"}
+{"command": "addItem", "payload": {"itemId": 2, "categoryId": 101, "sellerId": 200, "price": 50.0, "quantity": 1}}
+{"command": "displayCart"}
+{"command": "removeItem", "payload": {"itemId": 1}}
+{"command": "displayCart"}
+{"command": "resetCart"}
+{"command": "displayCart"}

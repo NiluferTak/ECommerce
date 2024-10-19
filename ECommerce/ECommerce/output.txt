@@ -1,0 +1,8 @@
+{"Result":true,"Message":"Item added successfully"}
+{"Result":true,"Message":{"items":[{"itemId":1,"categoryId":101,"sellerId":200,"price":100.0,"quantity":2,"vasItems":[]}],"totalAmount":180.00,"appliedPromotionId":9909,"totalDiscount":20.00}}
+{"Result":true,"Message":"Item added successfully"}
+{"Result":true,"Message":{"items":[{"itemId":1,"categoryId":101,"sellerId":200,"price":100.0,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":101,"sellerId":200,"price":50.0,"quantity":1,"vasItems":[]}],"totalAmount":225.00,"appliedPromotionId":9909,"totalDiscount":25.00}}
+{"Result":true,"Message":"Item removed successfully."}
+{"Result":true,"Message":{"items":[{"itemId":2,"categoryId":101,"sellerId":200,"price":50.0,"quantity":1,"vasItems":[]}],"totalAmount":45.00,"appliedPromotionId":9909,"totalDiscount":5.00}}
+{"Result":true,"Message":"The cart is reset."}
+{"Result":true,"Message":{"items":[],"totalAmount":0.0,"appliedPromotionId":null,"totalDiscount":0.0}}
